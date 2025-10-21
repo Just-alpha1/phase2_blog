@@ -1,0 +1,5 @@
+- [x] Create index.html with blog post content on "The Impact of Artificial Intelligence on Modern Software Development"
+- [x] Add basic CSS styling in styles.css
+- [x] Verify the blog post follows guidelines: programming-related, no plagiarism, cite sources, check spelling/grammar
+- [x] Test the HTML file in browser (server running on port 8000)
+- [ ] Provide the URL for submission
